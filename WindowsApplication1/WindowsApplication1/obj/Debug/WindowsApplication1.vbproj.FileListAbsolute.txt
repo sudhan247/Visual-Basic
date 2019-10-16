@@ -1,0 +1,15 @@
+c:\users\aarya\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\aarya\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\aarya\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\aarya\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\aarya\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\users\aarya\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\aarya\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\aarya\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\aarya\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\aarya\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+c:\users\aarya\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+I:\Apps\DOTNET\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+I:\Apps\DOTNET\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+I:\Apps\DOTNET\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+I:\Apps\DOTNET\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
